@@ -7,4 +7,10 @@
 [![Cppcheck Analysis](https://github.com/Gayathri-karthikeyan/M2_PET_FEEDER_CONTROL/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Gayathri-karthikeyan/M2_PET_FEEDER_CONTROL/actions/workflows/cppcheck.yml)
 # In Action
 # OFF Mode
+![OFF MODE](https://user-images.githubusercontent.com/92981586/164406363-367b1a87-6c00-4735-846e-26a0d32af268.png)
 # On Mode
+![ON MODE](https://user-images.githubusercontent.com/92981586/164406449-daba66aa-e56f-4b1e-b21b-1fdf79077dae.png)
+# On Mode 2
+![ON MODE 2](https://user-images.githubusercontent.com/92981586/164406556-e95fdc59-fdab-410d-9b00-d05b0a3c5ec0.png)
+# On Mode 3
+![ON MODE 3](https://user-images.githubusercontent.com/92981586/164406609-da36a5bd-b4da-461b-8a74-ad7428a2e476.png)
