@@ -100,6 +100,29 @@ A voltage source is a two-terminal device which can maintain a fixed voltage.[1]
 * Difficult to monitor the pet consume the food at the schedules time.
 
 
+## HIGH LEVEL REQUIREMENTS:
+
+|RID|DESCRIPTION|STATUS|
+|:--|:----------|:-----|
+|HLR1|C LANGUAGE|IMPLEMENTED|
+|HLR2|OS WINDOWS|IMPLEMENTED|
+|HLR3|OS LINUX|IMPLEMENTED|
+|HLR4|HARDDISK|IMPLEMENTED|
+|HLR5|RAM 4GB|IMPLEMENTED|
+
+## LOW LEVEL REQUIREMENTS:
+
+|RID|DESCRIPTION|STATUS|
+|:--|:----------|:-----|
+|LLR1|LOGIN USER|IMPLEMENTED|
+|LLR2|BOOK PACKAGE|IMPLEMENTED|
+|LLR3|CHECK TICKET|IMPLEMENTED|
+|LLR4|CANCEL TICKET|IMPLEMENTED|
+|LLR5|CHANGE PASSWORD|IMPLEMENTED|
+|LLR6|LOGOUT USER|IMPLEMENTED|
+
+
+
 ## CONCLUSION:
 
 The automated pet feeder can be adjusted the feeding time and the motor can rotate according to the required time.This project brought together several components and ideas to achieve a common goal that is design an automated pet feeder using ATmega328.
