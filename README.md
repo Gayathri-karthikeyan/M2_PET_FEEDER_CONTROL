@@ -12,7 +12,7 @@
 # valgrind
 [![Valgrind](https://github.com/Gayathri-karthikeyan/M2_PET_FEEDER_CONTROL/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Gayathri-karthikeyan/M2_PET_FEEDER_CONTROL/actions/workflows/valgrind.yml)
 # Unit Testing
-
+[![Unit Testing](https://github.com/Gayathri-karthikeyan/M2_PET_FEEDER_CONTROL/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/Gayathri-karthikeyan/M2_PET_FEEDER_CONTROL/actions/workflows/unit_testing.yml)
 # In Action
 # OFF Mode
 ![OFF MODE](https://user-images.githubusercontent.com/92981586/164406363-367b1a87-6c00-4735-846e-26a0d32af268.png)
