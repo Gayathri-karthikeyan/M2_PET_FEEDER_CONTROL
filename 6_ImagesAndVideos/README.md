@@ -15,4 +15,8 @@
 
 ![ON MODE 3](https://user-images.githubusercontent.com/92981586/164406144-2761e3b3-5a6f-4a0f-b8d1-836b8066d7b7.png)
 
+## VIDEO:
+
+![VIDEO](https://user-images.githubusercontent.com/92981586/164731318-bfc32072-feb5-413e-92fb-a375ff6ecfad.mp4)
+
 
