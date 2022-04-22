@@ -8,6 +8,8 @@
 # Build On Linux
 [![Build-Linux](https://github.com/Gayathri-karthikeyan/M2_PET_FEEDER_CONTROL/actions/workflows/linux.yml/badge.svg)](https://github.com/Gayathri-karthikeyan/M2_PET_FEEDER_CONTROL/actions/workflows/linux.yml)
 # Git Inspector
+[![Git Inspector](https://github.com/Gayathri-karthikeyan/M2_PET_FEEDER_CONTROL/actions/workflows/git.yml/badge.svg)](https://github.com/Gayathri-karthikeyan/M2_PET_FEEDER_CONTROL/actions/workflows/git.yml)
+# valgrind
 
 # In Action
 # OFF Mode
