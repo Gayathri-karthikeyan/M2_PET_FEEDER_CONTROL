@@ -7,6 +7,8 @@
 [![Cppcheck Analysis](https://github.com/Gayathri-karthikeyan/M2_PET_FEEDER_CONTROL/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Gayathri-karthikeyan/M2_PET_FEEDER_CONTROL/actions/workflows/cppcheck.yml)
 # Build On Linux
 [![Build-Linux](https://github.com/Gayathri-karthikeyan/M2_PET_FEEDER_CONTROL/actions/workflows/linux.yml/badge.svg)](https://github.com/Gayathri-karthikeyan/M2_PET_FEEDER_CONTROL/actions/workflows/linux.yml)
+# Git Inspector
+
 # In Action
 # OFF Mode
 ![OFF MODE](https://user-images.githubusercontent.com/92981586/164406363-367b1a87-6c00-4735-846e-26a0d32af268.png)
